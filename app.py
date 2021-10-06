@@ -1,7 +1,6 @@
 from flask import Flask, request, render_template
 from flask_restful import Resource, Api
 from summa.summarizer import summarize
-import textstat
 app = Flask(__name__)
 api = Api(app)
 @app.route('/')
