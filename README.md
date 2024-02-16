@@ -1,2 +1,2 @@
 # resumidor
-Aplicación web para resumir textos. La interfaz web puede probarse en https://resumiendo.herokuapp.com/
+This is a bare bones web app for summarization, using Flask and Summa. The app can be tested at https://resumiendo.herokuapp.com/
